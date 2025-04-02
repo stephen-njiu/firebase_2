@@ -1,2 +1,2 @@
-# firebase_2
+# firebase
 Firebase Simple Template to Create Android and IoS Mobile Applications
